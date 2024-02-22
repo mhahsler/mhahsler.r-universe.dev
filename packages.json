@@ -3,6 +3,7 @@
         "package": "arules",
         "url": "https://github.com/mhahsler/arules"
     },
+    {
         "package": "arulesCBA",
         "url": "https://github.com/mhahsler/arulesCBA"
     },
