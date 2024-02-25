@@ -40,10 +40,6 @@
         "url": "https://github.com/mhahsler/qap"
     },
     {
-        "package": "curl",
-        "url": "https://github.com/jeroen/curl"
-    },
-    {
         "package": "rBLAST",
         "url": "https://github.com/mhahsler/rBLAST"
     },
