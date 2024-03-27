@@ -67,6 +67,10 @@
         "package": "rRDP",
         "url": "https://github.com/mhahsler/rRDP"
     },
+      {
+        "package": "rRDPData",
+        "url": "https://git.bioconductor.org/packages/rRDPData"
+    },
     {
         "package": "seriation",
         "url": "https://github.com/mhahsler/seriation"
