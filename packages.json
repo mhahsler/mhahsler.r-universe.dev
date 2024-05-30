@@ -36,6 +36,10 @@
         "url": "https://github.com/mhahsler/pomdpSolve"
     },
     {
+        "package": "mdp",
+        "url": "https://github.com/mhahsler/mdp"
+    },
+    {
         "package": "qap",
         "url": "https://github.com/mhahsler/qap"
     },
