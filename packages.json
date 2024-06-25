@@ -13,7 +13,7 @@
     },
     {
         "package": "arulesSequences",
-        "url": "https://github.com/mhahsler/arulesSequences"
+        "url": "https://github.com/cran/arulesSequences"
     },
     {
         "package": "arulesViz",
@@ -21,7 +21,7 @@
     },
     {
         "package": "cba",
-        "url": "https://github.com/mhahsler/cba"
+        "url": "https://github.com/cran/cba"
     },
     {
         "package": "dbscan",
