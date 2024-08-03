@@ -1,19 +1,67 @@
 [
     {
+        "package": "arules",
+        "url": "https://github.com/mhahsler/arules"
+    },
+    {
+        "package": "arulesCBA",
+        "url": "https://github.com/mhahsler/arulesCBA"
+    },
+    {
+        "package": "arulesNBMiner",
+        "url": "https://github.com/mhahsler/arulesNBMiner"
+    },
+    {
         "package": "arulesSequences",
         "url": "https://github.com/cran/arulesSequences"
+    },
+    {
+        "package": "arulesViz",
+        "url": "https://github.com/mhahsler/arulesViz"
     },
     {
         "package": "cba",
         "url": "https://github.com/cran/cba"
     },
     {
+        "package": "dbscan",
+        "url": "https://github.com/mhahsler/dbscan"
+    },
+    {
+        "package": "pomdp",
+        "url": "https://github.com/mhahsler/pomdp"
+    },
+    {
+        "package": "pomdpSolve",
+        "url": "https://github.com/mhahsler/pomdpSolve"
+    },
+    {
         "package": "markovDP",
         "url": "https://github.com/mhahsler/markovDP"
     },
     {
+        "package": "qap",
+        "url": "https://github.com/mhahsler/qap"
+    },
+    {
         "package": "rBLAST",
         "url": "https://github.com/mhahsler/rBLAST"
+    },
+    {
+        "package": "recommenderlab",
+        "url": "https://github.com/mhahsler/recommenderlab"
+    },
+    {
+        "package": "recommenderlabBX",
+        "url": "https://github.com/mhahsler/recommenderlabBX"
+    },
+    {
+        "package": "recommenderlabJester",
+        "url": "https://github.com/mhahsler/recommenderlabJester"
+    },
+    {
+        "package": "rEMM",
+        "url": "https://github.com/mhahsler/rEMM"
     },
     {
         "package": "rMSA",
@@ -22,5 +70,25 @@
     {
         "package": "rRDP",
         "url": "https://github.com/mhahsler/rRDP"
+    },
+    {
+        "package": "seriation",
+        "url": "https://github.com/mhahsler/seriation"
+    },
+    {
+        "package": "stream",
+        "url": "https://github.com/mhahsler/stream"
+    },
+    {
+        "package": "streamConnect",
+        "url": "https://github.com/mhahsler/streamConnect"
+    },
+    {
+        "package": "streamMOA",
+        "url": "https://github.com/mhahsler/streamMOA"
+    },
+    {
+        "package": "TSP",
+        "url": "https://github.com/mhahsler/TSP"
     }
 ]
