@@ -90,5 +90,10 @@
     {
         "package": "TSP",
         "url": "https://github.com/mhahsler/TSP"
+    },
+    {
+        "package": "pmml",
+        "url": "https://github.com/mhahsler/r-pmml"
     }
+    
 ]
